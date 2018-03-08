@@ -3,7 +3,7 @@
 ## ***``Windows OS Desktop PC``*** [![Build Status](https://ci.appveyor.com/api/projects/status/um3h4xqen7vql7o2/branch/master?svg=true)](https://github.com/sharpbrowser/SharpBrowser)
 ***
 ## The Prerequisites are Required: Loading Preview   
-## **`Microsoft .NET Framework 4.5`**
+## **`Microsoft .NET Framework 4.5.2`**
 ***
 
 ![SharpBrowser](https://github.com/sharpbrowser/SharpBrowser/raw/master/images/logo3.png)
