@@ -1,0 +1,4 @@
+E:\Program Files\Git\@\SharpBrowser\src\obj\Debug\SharpBrowser.csprojResolveAssemblyReference.cache
+E:\Program Files\Git\@\SharpBrowser\src\obj\Debug\SharpBrowser.MainForm.resources
+E:\Program Files\Git\@\SharpBrowser\src\obj\Debug\SharpBrowser.Properties.Resources.resources
+E:\Program Files\Git\@\SharpBrowser\src\obj\Debug\SharpBrowser.csproj.GenerateResource.Cache
