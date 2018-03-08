@@ -1,3 +1,11 @@
+ [![Build OpenSource](OpenSource.png)](https://github.com/sharpbrowser/SharpBrowser)
+
+## ***``Windows OS Desktop PC``*** [![Build Status](https://ci.appveyor.com/api/projects/status/um3h4xqen7vql7o2/branch/master?svg=true)](https://github.com/sharpbrowser/SharpBrowser)
+***
+## The Prerequisites are Required: Loading Preview   
+## **`Microsoft .NET Framework 4.5`**
+***
+
 ![SharpBrowser](https://github.com/sharpbrowser/SharpBrowser/raw/master/images/logo3.png)
 
 SharpBrowser is the fastest open source C# web browser there is! Slightly faster than Google Chrome when rendering web pages due to lightweight CEF renderer. We compared every available .NET browsing browsing engine and finally settled on the high-performance [CefSharp](https://github.com/cefsharp/CefSharp/). Released under the permissive MIT license.
