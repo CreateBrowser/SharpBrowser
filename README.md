@@ -53,6 +53,7 @@ Ctrl+F		| Open search bar (Enter to find next, Esc to close)
 - `bin/storage` - HTML and JS required for downloads manager and custom error pages
 
 ## Credits
+- [Mohammed Osama Mohamed Sayed Ahmed](https://github.com/mohamedosama914) -  **`Microsoft .NET Framework 4.7`** SharpBrowser project.
 
 - [Robin Rodricks](https://github.com/robinrodricks) - SharpBrowser project.
 - [Alex Maitland](https://github.com/amaitland) - CefSharp project, wrapper for CEF embeddable browser.
