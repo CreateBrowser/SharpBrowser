@@ -1,13 +1,13 @@
  [![Build OpenSource](OpenSource.png)](https://github.com/sharpbrowser/SharpBrowser)
 
-
-  [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/SharpBrowser/releases/tag/v1.0)
-
 ## ***``Windows OS Desktop PC``*** [![Build Status](https://ci.appveyor.com/api/projects/status/um3h4xqen7vql7o2/branch/master?svg=true)](https://github.com/sharpbrowser/SharpBrowser)
 ***
 ## The Prerequisites are Required: Loading Preview   
 ## **`Microsoft .NET Framework 4.7`**
+  [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/SharpBrowser/releases/tag/v1.0)
 
+
+***
 ## **`NOT Microsoft .NET Framework 4.5.2`**
 
 ***
